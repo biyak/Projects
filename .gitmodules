@@ -1,0 +1,6 @@
+[submodule "2XB3Final"]
+	path = 2XB3Final
+	url = https://github.com/olejarza/2XB3Final.git
+[submodule "resilient-mcmaster"]
+	path = resilient-mcmaster
+	url = https://github.com/carmenluo/resilient-mcmaster.git
