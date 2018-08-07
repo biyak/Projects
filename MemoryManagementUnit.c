@@ -10,7 +10,7 @@
 #define MEMSIZE 80
 #define INT_SIZE 4
 
-//Authors: Madeeha Khan (1412644) and Biya Kazmi (400018251)
+//Authors: Madeeha Khan and Biya Kazmi 
 
 signed char *mmapfptr;
 int requests[MEMSIZE];
